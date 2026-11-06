@@ -1,0 +1,8 @@
+{
+  "name": "moto-rush-online",
+  "version": "1.0.0",
+  "description": "Servidor do Moto Rush Mundo Aberto (25 jogadores, contas com senha)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
